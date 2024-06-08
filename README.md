@@ -9,4 +9,6 @@ This README file will serve as a working journal of my progress through this exe
 
     -Okay. I figured it out. Issue came from not using git push to upload work to repository
 
+    Added index.html and a recipes directory
+
     
