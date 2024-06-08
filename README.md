@@ -13,4 +13,6 @@ This README file will serve as a working journal of my progress through this exe
 
     Added image directory and images and 3 html files into recipes directory 
 
+    Added ingredients, directions, and image to cinnamon_roll_monkey_bread.html
+
     
