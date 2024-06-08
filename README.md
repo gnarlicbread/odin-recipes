@@ -16,4 +16,8 @@ This README file will serve as a working journal of my progress through this exe
     Added ingredients, directions, and image to cinnamon_roll_monkey_bread.html
 
     Added ingredients,directions, and images to marry_me_chicken_soup.html
+
+    Added final information to beef_stroganoff.html
+
+    Will git push final product
     
