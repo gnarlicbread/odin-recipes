@@ -7,4 +7,6 @@ This README file will serve as a working journal of my progress through this exe
 
     -Already ran into a hurdle. Tried to commit README file to github but am not seeing the updated file. 
 
+    -Okay. I figured it out. Issue came from not using git push to upload work to repository
+
     
