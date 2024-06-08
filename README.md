@@ -11,4 +11,6 @@ This README file will serve as a working journal of my progress through this exe
 
     Added index.html and a recipes directory
 
+    Added image directory and images and 3 html files into recipes directory 
+
     
